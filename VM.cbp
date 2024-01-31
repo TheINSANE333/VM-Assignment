@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="VM" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/VM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/VM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="add.cpp" />
+		<Unit filename="dec.cpp" />
+		<Unit filename="decToBin.cpp" />
+		<Unit filename="div.cpp" />
+		<Unit filename="drawTable.cpp" />
+		<Unit filename="drawTableLite.cpp" />
+		<Unit filename="hello.h" />
+		<Unit filename="in.cpp" />
+		<Unit filename="inc.cpp" />
+		<Unit filename="load.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mov.cpp" />
+		<Unit filename="mul.cpp" />
+		<Unit filename="out.cpp" />
+		<Unit filename="rol.cpp" />
+		<Unit filename="ror.cpp" />
+		<Unit filename="rsrcRdst.cpp" />
+		<Unit filename="shl.cpp" />
+		<Unit filename="shr.cpp" />
+		<Unit filename="store.cpp" />
+		<Unit filename="sub.cpp" />
+		<Unit filename="writeIntoFile.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1704971366 source:c:\users\happi\documents\vm\hello.cpp
+	<iostream>
+
+1706690004 source:c:\users\happi\documents\vm\main.cpp
+	<iostream>
+	<fstream>
+	"hello.h"
+
+1706622451 c:\users\happi\documents\vm\hello.h
+	<iostream>
+	<vector>
+
+1706685038 source:c:\users\happi\documents\vm\drawtable.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
+1706622081 source:c:\users\happi\documents\vm\mov.cpp
+	<iostream>
+
+1706622033 source:c:\users\happi\documents\vm\in.cpp
+	<iostream>
+
+1706622049 source:c:\users\happi\documents\vm\out.cpp
+	<iostream>
+
+1706059928 source:c:\users\happi\documents\vm\rsrcrdst.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+
+1706692683 source:c:\users\happi\documents\vm\sub.cpp
+	<iostream>
+
+1706692569 source:c:\users\happi\documents\vm\add.cpp
+	<iostream>
+
+1706692639 source:c:\users\happi\documents\vm\dec.cpp
+	<iostream>
+
+1706692670 source:c:\users\happi\documents\vm\inc.cpp
+	<iostream>
+
+1706622245 source:c:\users\happi\documents\vm\store.cpp
+	<iostream>
+
+1706622379 source:c:\users\happi\documents\vm\drawtablelite.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
+1706622270 source:c:\users\happi\documents\vm\load.cpp
+	<iostream>
+
+1706059311 source:c:\users\happi\documents\vm\dectobin.cpp
+	<iostream>
+	<cmath>
+
+1706691142 source:c:\users\happi\documents\vm\ror.cpp
+	<iostream>
+	"hello.h"
+
+1706687683 source:c:\users\happi\documents\vm\rol.cpp
+	<iostream>
+	"hello.h"
+
+1706622346 source:c:\users\happi\documents\vm\shl.cpp
+	<iostream>
+	"hello.h"
+
+1706687638 source:c:\users\happi\documents\vm\shr.cpp
+	<iostream>
+	"hello.h"
+
+1706692654 source:c:\users\happi\documents\vm\div.cpp
+	<iostream>
+
+1706692155 source:c:\users\happi\documents\vm\mul.cpp
+	<iostream>
+
+1706622863 source:c:\users\happi\documents\vm\writeintofile.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
